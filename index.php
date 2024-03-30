@@ -1,6 +1,6 @@
 <?php
 /**
- * Advanced PHP 7 eCommerce Website (https://22digital.co.za)
+ * Advanced PHP 7 eCommerce Website (https://ddos-12.azurewebsites.net/)
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU Affero General Public License as
